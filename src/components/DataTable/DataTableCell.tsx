@@ -106,7 +106,7 @@ const CellContent = ({
   return (
     <Text
       style={textStyle}
-      numberOfLines={1}
+      numberOfLines={3}
       maxFontSizeMultiplier={maxFontSizeMultiplier}
       testID={`${testID}-text-container`}
     >
